@@ -1,3 +1,3 @@
 # PiSmartCenter
 
-<IMG src="file:///C:\Users\Administrator\AppData\Roaming\feiq\RichOle\3300558567.bmp">
+https://github.com/to9/PiSmartCenter/blob/master/images/PiSmartCenter.png
