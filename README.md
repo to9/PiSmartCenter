@@ -8,4 +8,4 @@ Project use Qt/QML.
 
 Video demo:
 
-PiSmartCenter on youku
+PiSmartCenter on YouKu
