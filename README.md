@@ -1,4 +1,4 @@
 # PiSmartCenter
 
-![image](PiSmartCenter/images/PiSmartCenter.png )
+![image](https://github.com/to9/PiSmartCenter/edit/master/images/PiSmartCenter.png )
 
