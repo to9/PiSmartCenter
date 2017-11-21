@@ -10,8 +10,10 @@ Project use Qt/QML.
 
 * Simple App on Windows:
 
-![image](https://github.com/to9/PiSmartCenter/blob/master/images/PiSmartCenter.png)
+<div align=left><img width="800" height="505" src="https://github.com/to9/PiSmartCenter/blob/master/images/PiSmartCenter.png"/></div>
 
 ## License
 
-采用 MIT 开源方式授权。 PiSmartCenter 软件由 G.D 编写.
+[![Crates.io](https://img.shields.io/packagist/l/doctrine/orm.svg?style=plastic)](https://github.com/to9/CodeStyle)<br>
+
+Copyright (c) 2017-present, G.D.
