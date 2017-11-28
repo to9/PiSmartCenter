@@ -24,7 +24,7 @@ mkdir fonts
 cp /usr/share/fonts/truetype/wqy/wqy-zenhei.ttc wqy-zenhei.ttc
 ```
 
-## Setting raspberry
+## Setting start-up for raspberry
 
 #### 1: 设置树开机自动进入命令行
 
