@@ -12,7 +12,7 @@ Project use Qt/QML.
 
 <div align=left><img width="800" height="505" src="https://github.com/to9/PiSmartCenter/blob/master/images/PiSmartCenter.png"/></div>
 
-## Setting raspberry font library
+## Setting font library for raspberry 
 
 #### 树莓派上安装文泉驿中文字体
 - apt-get install ttf-wqy-zenhei
