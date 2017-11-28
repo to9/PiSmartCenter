@@ -41,7 +41,7 @@ Project use Qt/QML.
 $ cd /uar/local/rasp-qt
 $ ./PiSmartCenter 
 ```
-设置完成后重启系统，系统会自动执行"/etc/profile.d/"目录下所有脚本。
+设置完成后重启系统，系统会自动执行"/etc/profile.d/"目录下所有脚本。也就完成了开机自动登录然后自动运行PiSmartCenter目的。
 
 ## License
 
