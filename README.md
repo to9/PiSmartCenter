@@ -12,7 +12,19 @@ Project use Qt/QML.
 
 <div align=left><img width="800" height="505" src="https://github.com/to9/PiSmartCenter/blob/master/images/PiSmartCenter.png"/></div>
 
-## setting raspberry
+## Setting raspberry font library
+
+#### 1： 树莓派上安装文泉驿中文字体
+- apt-get install ttf-wqy-zenhei
+
+字库安装成功后，查找文泉驿字库"wqy-zenhei.ttc" 复制到Qt交叉编译库目录下/usr/local/qt-5.9.2-raspberry/lib/fonts. 
+如果没有fonts目录,则新建一个fonts目录. 程序运行后会自动查找该目录下对应字库。
+```
+mkdir fonts
+cp /usr/share/fonts/truetype/wqy/wqy-zenhei.ttc wqy-zenhei.ttc
+```
+
+## Setting raspberry
 
 #### 1: 设置树开机自动进入命令行
 
