@@ -14,7 +14,7 @@ Project use Qt/QML.
 
 ## Setting raspberry font library
 
-#### 1： 树莓派上安装文泉驿中文字体
+#### 树莓派上安装文泉驿中文字体
 - apt-get install ttf-wqy-zenhei
 
 字库安装成功后，查找文泉驿字库"wqy-zenhei.ttc" 复制到Qt交叉编译库目录下/usr/local/qt-5.9.2-raspberry/lib/fonts. 
@@ -36,7 +36,7 @@ cp /usr/share/fonts/truetype/wqy/wqy-zenhei.ttc wqy-zenhei.ttc
 
 设置 "B1 Console                Text console, requiring user to login" 
 
-#### 2： 开机命令行用户自动登录(root 账户)
+#### 2: 开机命令行用户自动登录(root 账户)
 
 - vim /etc/systemd/system/getty.target.wants/getty@tty1.service
 
@@ -46,7 +46,7 @@ cp /usr/share/fonts/truetype/wqy/wqy-zenhei.ttc wqy-zenhei.ttc
 
 其中"root"为自动登录的用户名。
 
-#### 3： 编写开机运行脚本
+#### 3: 编写开机运行脚本
 
 - vim /etc/profile.d/PiSmartCenter.sh
 ```
