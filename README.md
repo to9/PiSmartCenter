@@ -1,5 +1,5 @@
 ## PiSmartCenter
-[![Travis](https://img.shields.io/badge/release-1.0.0-blue.svg?style=plastic)](https://github.com/to9/PiSmartCenter)
+[![Travis](https://img.shields.io/badge/release-1.0.0-blue.svg?style=plastic)](https://github.com/to9/PiSmartCenter/tree/master/bin)
 
 Project used Qt/QML.
 
