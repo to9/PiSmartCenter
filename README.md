@@ -60,6 +60,6 @@ PiSmartCenter program auto start.
 
 ## License
 
-[![Crates.io](https://img.shields.io/packagist/l/doctrine/orm.svg?style=plastic)](https://github.com/to9/PiSmartCenter)
+[![Crates.io](https://img.shields.io/packagist/l/doctrine/orm.svg?style=plastic)](https://github.com/to9/PiSmartCenter/blob/master/LICENSE)
 
 Copyright (c) 2017-present, G.D.
