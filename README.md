@@ -5,7 +5,7 @@ Project used Qt/QML.
 
 ## Description
 
-天气和时钟实时显示应用，可运行树莓派等其他平台上.
+Desktop weather stations have real time weather display. Can run on the raspberry pi.
 
 ## View
 
