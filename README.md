@@ -1,11 +1,9 @@
 ## PiSmartCenter
 [![Travis](https://img.shields.io/badge/release-1.0.0-blue.svg?style=plastic)](https://github.com/to9/PiSmartCenter/tree/master/bin)
 
-This PiSmartCenter project is written in Qt/QML.
-
 ## Description
 
-Desktop weather stations have real time weather display. Can run on the raspberry pi.
+Desktop weather stations have real time weather display. Can run on the raspberry pi. This PiSmartCenter project is written in Qt/QML.
 
 ## View
 
