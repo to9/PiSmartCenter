@@ -53,7 +53,8 @@ $ cd /uar/local/rasp-qt
 $ ./PiSmartCenter 
 ```
 #### 4: reboot
-Reboot system.The system automatically executes all the scripts in the "/etc/profile.d/" directory. PiSmartCenter program auto start.
+    Reboot system.The system automatically executes all the scripts in the "/etc/profile.d/" directory. 
+    PiSmartCenter program auto start.
 
 ## License
 
