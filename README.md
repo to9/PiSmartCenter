@@ -11,7 +11,7 @@ This PiSmartCenter project is written in Qt/QML. It is have real time info displ
 
 <div align=left><img width="800" height="505" src="https://github.com/to9/PiSmartCenter/blob/master/images/PiSmartCenter.png"/></div>
 
-![image](https://github.com/zhengwenming/WMPlayer/blob/master/WMPlayer/Resource/WMPlayer.gif)
+![image](https://github.com/to9/PiSmartCenter/blob/master/images/PiSmartCenter.gif)
 
 ## Setting font library for raspberry 
 
