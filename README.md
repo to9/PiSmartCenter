@@ -1,6 +1,7 @@
 ## PiSmartCenter
+[![Travis](https://img.shields.io/badge/release-1.0.0-blue.svg?style=plastic)](https://github.com/to9/embedded-log)
 
-Project use Qt/QML.
+Project used Qt/QML.
 
 ## Description
 
