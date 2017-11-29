@@ -3,7 +3,7 @@
 
 ## Description
 
-Desktop weather stations have real time weather display. Can run on the raspberry pi. This PiSmartCenter project is written in Qt/QML.
+This PiSmartCenter project is written in Qt/QML. It is have real time info display. Can run on the raspberry pi.
 
 ## View
 
