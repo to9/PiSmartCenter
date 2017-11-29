@@ -58,6 +58,6 @@ $ ./PiSmartCenter
 
 ## License
 
-[![Crates.io](https://img.shields.io/packagist/l/doctrine/orm.svg?style=plastic)](https://github.com/to9/CodeStyle)<br>
+[![Crates.io](https://img.shields.io/packagist/l/doctrine/orm.svg?style=plastic)](https://github.com/to9/PiSmartCenter)<br>
 
 Copyright (c) 2017-present, G.D.
