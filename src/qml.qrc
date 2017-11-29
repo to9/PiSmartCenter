@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qml/Style/UIStyle.qml</file>
+        <file>qml/Style/qmldir</file>
+        <file>qml/Weather/Weather.qml</file>
+        <file>qml/Weather/images/dust.png</file>
+        <file>qml/Weather/images/foggy.png</file>
+        <file>qml/Weather/images/heavy_storm.png</file>
+        <file>qml/Weather/images/rain_2.png</file>
+        <file>qml/Weather/images/rain_3.png</file>
+        <file>qml/Weather/images/rain_4.png</file>
+        <file>qml/Weather/images/rain_5.png</file>
+        <file>qml/Weather/images/shower.png</file>
+        <file>qml/Weather/images/sleet.png</file>
+        <file>qml/Weather/images/snow_0.png</file>
+        <file>qml/Weather/images/snow_1.png</file>
+        <file>qml/Weather/images/snow_2.png</file>
+        <file>qml/Weather/images/snow_3.png</file>
+        <file>qml/Weather/images/sunny.png</file>
+        <file>qml/Weather/images/unknown.png</file>
+        <file>qml/Weather/images/wind.png</file>
+        <file>images/background.png</file>
+        <file>qml/Weather/images/overcast.png</file>
+        <file>qml/Weather/images/cloudy.png</file>
+        <file>qml/BezierClock/BezierAnimator.qml</file>
+        <file>qml/BezierClock/BezierCanvas.qml</file>
+        <file>qml/BezierClock/BezierClock.qml</file>
+        <file>qml/BezierClock/BezierDigit.qml</file>
+        <file>qml/BezierClock/BezierDigits.qml</file>
+        <file>qml/BezierClock/BezierInit.qml</file>
+        <file>qml/BezierClock/BezierSetup.qml</file>
+        <file>qml/BezierClock/JsCanvasFunctions.js</file>
+        <file>qml/BezierClock/JsCoreFunctions.js</file>
+        <file>qml/BezierClock/UiBaseOverlay.qml</file>
+        <file>qml/BezierClock/UiFpsOverlay.qml</file>
+        <file>qml/BezierClock/NonKDE/BezierSettingsQt.qml</file>
+        <file>qml/BezierClock/NonKDE/JsMainUiHelper.js</file>
+        <file>qml/BezierClock/NonKDE/UiOptionsOverlay.qml</file>
+        <file>qml/BezierClock/NonKDE/BezierClockMain.qml</file>
+        <file>qml/Weather/images/rain_1.png</file>
+        <file>qml/Weather/images/shadow.png</file>
+    </qresource>
+</RCC>
