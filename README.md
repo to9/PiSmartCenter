@@ -1,7 +1,7 @@
 ## PiSmartCenter
 [![Travis](https://img.shields.io/badge/release-1.0.0-blue.svg?style=plastic)](https://github.com/to9/PiSmartCenter/tree/master/bin)
 
-Project used Qt/QML.
+This PiSmartCenter project is written in Qt/QML.
 
 ## Description
 
@@ -31,21 +31,21 @@ cp /usr/share/fonts/truetype/wqy/wqy-zenhei.ttc wqy-zenhei.ttc
 
 - raspi-config
 
-    选择 "3 Boot Options            Configure options for start-up"
+    select "3 Boot Options            Configure options for start-up"
 
-    选择 "B1 Desktop / CLI          Choose whether to boot int a desktop environment or the command line"
+    select "B1 Desktop / CLI          Choose whether to boot int a desktop environment or the command line"
 
-    设置 "B1 Console                Text console, requiring user to login" 
+    setting "B1 Console                Text console, requiring user to login" 
 
 #### 2: 开机命令行用户自动登录(root 账户)
 
 - vim /etc/systemd/system/getty.target.wants/getty@tty1.service
 
-    将行： ExecStart=-/sbin/agetty --noclear %I $TERM
+    line： ExecStart=-/sbin/agetty --noclear %I $TERM
 
-    改成： ExecStart=-/sbin/agetty --autologin root --noclear %I $TERM
+    change： ExecStart=-/sbin/agetty --autologin root --noclear %I $TERM
 
-    其中"root"为自动登录的用户名。
+    "root" is the username of the automatic login.
 
 #### 3: 编写开机运行脚本
 
